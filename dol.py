@@ -18,10 +18,7 @@ class Ui_MainWindow(object):
         self.centralwidget.setObjectName("centralwidget")
         self.table = QtWidgets.QTableWidget(self.centralwidget)
         self.table.setGeometry(QtCore.QRect(20, 60, 961, 291))
-2323231313
-weqweqwe
-asdsadwe2323
-sadadasdasdasdad23
+wewqe
         brush = QtGui.QBrush(QtGui.QColor(255, 255, 255))
         brush.setStyle(QtCore.Qt.NoBrush)
         item.setForeground(brush)
